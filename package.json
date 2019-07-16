@@ -1,0 +1,27 @@
+{
+  "name": "contract_automation_tool_electron",
+  "description": "Contract Tool Generator",
+  "version": "0.11.0",
+  "main": "main.js",
+  "authors": [
+    "."
+  ],
+  "license": "GPL-3.0",
+  "private": true,
+  "scripts": {
+    "start": "electron-packager ."
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "jquery": "^3.3.1",
+    "keymaster": "^1.6.2",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "strip": "^3.0.0"
+  },
+  "devDependencies": {
+    "electron": "^3.1.11",
+    "electron-packager": "^13.1.1",
+    "electron-winstaller": "^3.0.4"
+  }
+}
