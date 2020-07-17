@@ -15,7 +15,7 @@
     "electron-squirrel-startup": "^1.0.0",
     "jquery": "^3.3.1",
     "keymaster": "^1.6.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "request": "^2.88.0",
     "strip": "^3.0.0"
   },
